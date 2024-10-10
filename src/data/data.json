@@ -1,0 +1,113 @@
+{
+  "Header": {
+    "title": "Precision Milling Solutions Since 1974",
+    "paragraph": "Durable Flour Mills & Emery Stones for Maximum Efficiency"
+  },
+  "About": {
+    "paragraph": "Our flour mills are designed for efficiency and reliability, meeting the demands of both small and large-scale operations. Additionally, our emery stones are crafted to provide superior grinding performance and longevity. Alongside our products, we offer comprehensive services including installation, maintenance, and technical support, ensuring our clients receive the best possible value and performance from their milling equipment",
+    "Why": [
+      "Proven Durability",
+      "Tailored Solutions",
+      "Energy Efficient",
+      "Expert Craftsmanship"
+    ],
+    "Why2": [
+      "Reliable Performance",
+      "Comprehensive Support",
+      "Decades of Experience",
+      "Customer-Centric Approach"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Installation & Setup",
+      "text": "We manage everything from machine customization to installation, ensuring a smooth and hassle-free setup for your operations."
+    },
+    {
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "name": "Preventive Maintenance",
+      "text": "Scheduled maintenance programs to keep your machinery running efficiently, preventing costly downtime and repairs."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Operator Training",
+      "text": "We provide comprehensive training for your staff to ensure safe and efficient operation, maximizing your equipment's performance."
+    }
+  ],
+
+  "Contact": {
+    "address": "Fort Road ,Opposite Bharat Petrol-pump ,Belgaum ,Karnataka ",
+    "phone": "+91 9916877112",
+    "email": "bharatemeryworks.info@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Commitment to Quality",
+      "text": "We uphold high manufacturing standards, using premium materials ."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Customer Focus",
+      "text": "Our priority is customer satisfaction, offering tailored solutions to meet unique milling needs jnikjbnjnk."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Legacy of Excellence",
+      "text": "With decades of experience, we are a trusted name in flour milling, known for quality products and service."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Comprehensive Support",
+      "text": "We provide expert installation, routine maintenance, and 24/7 technical support for optimal performance."
+    }
+  ]
+}
