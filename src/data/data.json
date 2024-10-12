@@ -20,54 +20,54 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Chilli Pounding",
+      "largeImage": "img/gallery/chilli-pounding.png",
+      "smallImage": "img/gallery/small-chilli-pounding1.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Cattle Feed",
+      "largeImage": "img/gallery/cattle-feed.png",
+      "smallImage": "img/gallery/small-cattle-feed4.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Flour Mill",
+      "largeImage": "img/gallery/flour-mill.png",
+      "smallImage": "img/gallery/small-flour-mill.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Horizontal Flour Mill",
+      "largeImage": "img/gallery/flour-mill2.png",
+      "smallImage": "img/gallery/small-flour-mill2.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "SugarCane Juicer",
+      "largeImage": "img/gallery/sugarcane-juicer.png",
+      "smallImage": "img/gallery/small-sugarcane-juicer1.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Roti Machine",
+      "largeImage": "img/gallery/roti-machine.png",
+      "smallImage": "img/gallery/small-roti-machine.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Flour Mill",
+      "largeImage": "img/gallery/flour-mill6.png",
+      "smallImage": "img/gallery/small-flour-mill6.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Vermicelli Machine",
+      "largeImage": "img/gallery/vermicelli-machine.png",
+      "smallImage": "img/gallery/small-vermicelli-machine.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Flour Mill",
+      "largeImage": "img/gallery/flour-mill4.png",
+      "smallImage": "img/gallery/small-flour-mill5.png"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": " fa-solid fa-screwdriver-wrench",
       "name": "Installation & Setup",
       "text": "We manage everything from machine customization to installation, ensuring a smooth and hassle-free setup for your operations."
     },
@@ -91,18 +91,18 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Commitment to Quality",
-      "text": "We uphold high manufacturing standards, using premium materials ."
-    },
-    {
-      "icon": "fa fa-bullhorn",
       "title": "Customer Focus",
-      "text": "Our priority is customer satisfaction, offering tailored solutions to meet unique milling needs jnikjbnjnk."
+      "text": "Our priority is customer satisfaction, offering tailored solutions to meet unique milling needs."
     },
     {
       "icon": "fa fa-group",
       "title": "Legacy of Excellence",
       "text": "With decades of experience, we are a trusted name in flour milling, known for quality products and service."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Commitment to Quality",
+      "text": "We uphold high manufacturing standards through premium materials and rigorous quality control processes."
     },
     {
       "icon": "fa fa-magic",

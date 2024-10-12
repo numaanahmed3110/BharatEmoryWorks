@@ -1,8 +1,17 @@
 @media screen and (max-width: 400px) {
+  /* .intro
+  .video-container {
+   
+  } */
   #features {
-    padding: 20px;
+    padding: 20px; /* Adjust for small screens */
     width: 111%;
   }
+
+  .section-title h2 {
+    font-size: 28px; /* Smaller font size for mobile */
+  }
+
   #about,
   #services,
   #testimonials,
