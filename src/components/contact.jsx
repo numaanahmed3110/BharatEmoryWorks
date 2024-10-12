@@ -7,22 +7,20 @@ const initialState = {
   email: "",
   message: "",
 };
+
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState);
+  const [formData, setFormData] = useState(initialState);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
-    setState((prevState) => ({ ...prevState, [name]: value }));
+    setFormData((prevState) => ({ ...prevState, [name]: value }));
   };
-  const clearState = () => setState({ ...initialState });
+
+  const clearState = () => setFormData({ ...initialState });
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(name, email, message);
-
-    // {
-    //   /* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */
-    // }
+    console.log(formData.name, formData.email, formData.message);
 
     emailjs
       .sendForm(
@@ -41,6 +39,7 @@ export const Contact = (props) => {
         }
       );
   };
+
   return (
     <div>
       <div id="contact">
@@ -66,6 +65,7 @@ export const Contact = (props) => {
                         placeholder="Name"
                         required
                         onChange={handleChange}
+                        value={formData.name}
                       />
                       <p className="help-block text-danger"></p>
                     </div>
@@ -80,6 +80,7 @@ export const Contact = (props) => {
                         placeholder="Email"
                         required
                         onChange={handleChange}
+                        value={formData.email}
                       />
                       <p className="help-block text-danger"></p>
                     </div>
@@ -94,6 +95,7 @@ export const Contact = (props) => {
                     placeholder="Message"
                     required
                     onChange={handleChange}
+                    value={formData.message}
                   ></textarea>
                   <p className="help-block text-danger"></p>
                 </div>
@@ -162,7 +164,7 @@ export const Contact = (props) => {
             &copy; 2024 Developed by{" "}
             <a href="http://www.needfit.in" rel="nofollow">
               Needfit Agency.
-            </a>  
+            </a>
           </p>
         </div>
       </div>

@@ -1,8 +1,4 @@
 @media screen and (max-width: 400px) {
-  /* .intro
-  .video-container {
-   
-  } */
   #features {
     padding: 20px; /* Adjust for small screens */
     width: 111%;
@@ -23,5 +19,92 @@
 
   #portfolio {
     width: 110%;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .intro h1 {
+    font-size: 5vw;
+  }
+  .intro p {
+    font-size: 2vw;
+  }
+  .btn-custom {
+    font-size: 1.5vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro-text {
+    text-align: center;
+  }
+  .intro h1 {
+    font-size: 6vw;
+  }
+  .intro p {
+    font-size: 2.5vw;
+  }
+  .btn-custom {
+    font-size: 2vw;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .intro h1 {
+    font-size: 8vw;
+  }
+  .intro p {
+    font-size: 4vw;
+  }
+  .btn-custom {
+    font-size: 3vw;
+    padding: 10px 20px;
+  }
+}
+/* Responsive styles */
+@media screen and (max-width: 1200px) {
+  #menu a.navbar-brand {
+    font-size: 20px;
+  }
+  #menu a.navbar-brand img {
+    height: 60px;
+  }
+  #menu.navbar-default .navbar-nav > li > a {
+    font-size: 14px;
+    margin: 9px 10px 0;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  #menu a.navbar-brand {
+    font-size: 18px;
+  }
+  #menu a.navbar-brand img {
+    height: 50px;
+  }
+  #menu.navbar-default .navbar-nav > li > a {
+    font-size: 13px;
+    margin: 9px 5px 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #menu a.navbar-brand {
+    font-size: 16px;
+  }
+  #menu a.navbar-brand img {
+    height: 40px;
+  }
+  #menu.navbar-default .navbar-nav > li > a {
+    font-size: 12px;
+    margin: 9px 2px 0;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #menu a.navbar-brand {
+    font-size: 14px;
+  }
+  #menu a.navbar-brand img {
+    height: 30px;
   }
 }
